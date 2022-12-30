@@ -5,6 +5,9 @@
 const fact = (later === never);
 // Also funny... and true...
 
-// Fun Fact:
-// I cleaned up my GitHub account... so many repos... so much was purged.
+/**
+ * Fun Facts:
+ * - I cleaned up my GitHub account... so many repos... so many purged.
+ * - Also... unwatched countless repos... ah... the tranquility.
+*/
 ```
