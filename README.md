@@ -11,3 +11,5 @@ const fact = (later === never);
  * - Also... unwatched countless repos... ah... the tranquility.
 */
 ```
+
+:rocket: [Mastodon](https://mas.to/@fast_junkie)
