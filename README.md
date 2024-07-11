@@ -16,4 +16,4 @@ Fun facts
 
 Contact
 ---
-🦣 [@fast_junkie@mas.to ](https://mas.to/@fast_junkie)
+\\,,/, [@fast_junkie@mas.to ](https://mas.to/@fast_junkie)
