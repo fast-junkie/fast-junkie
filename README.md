@@ -6,4 +6,7 @@ Wait... what?
 
 const fact = (later === never);
 // Also funny... and also true...
+
+!(factChecked)
+// Just sad...
 ```
