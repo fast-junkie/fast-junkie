@@ -1,13 +1,5 @@
-Wait... what?
----
-```javascript
-{ !false }
-// It's funny because it's true...
+__'~~25~~ 26:__ _All... ~~public~~ repos' removed._  
 
-const fact = (later === never);
-// Also funny... and also true...
+Trigger... [GitHub Ban Suspension](https://www.404media.co/github-ban-suspension-adult-modding-games-illusion/)
 
-!(factChecked)
-// Just sad...
-```
-__'25:__ _All... public repos' removed._
+...fair well US big tech.
